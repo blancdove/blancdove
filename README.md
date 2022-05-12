@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 It's pretty interesting
-
-/play crickets
+It works!
